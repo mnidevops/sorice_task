@@ -1,0 +1,7 @@
+# mongodb replicaset
+---
+apiVersion: v1
+kind: ReplicaSet
+metadata:
+  name: mongo
+
